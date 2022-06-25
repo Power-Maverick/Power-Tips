@@ -1,4 +1,4 @@
-# Episode - 03
+# Episode - 04
 
 In this episode, we will look at setting up a plugin project and writing a simple plugin. 
 
