@@ -92,6 +92,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CalculateSuperHeroScore.cs" />
+    <Compile Include="ContextBase.cs" />
     <Compile Include="PluginBase.cs" />
     <Compile Include="PluginTracer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
