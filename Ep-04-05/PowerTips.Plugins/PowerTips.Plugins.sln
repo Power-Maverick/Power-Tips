@@ -5,6 +5,13 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerTips.Plugins.Training", "PowerTips.Plugins.Training\PowerTips.Plugins.Training.csproj", "{C099207A-7427-46F2-98FA-9943DF98ED6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerTips.Plugins.UnitTests", "PowerTips.Plugins.UnitTests\PowerTips.Plugins.UnitTests.csproj", "{236D6B88-16FD-44CB-9730-358A573303A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{457352E4-C42A-45A9-8EAE-4E64426F0417}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +22,10 @@ Global
 		{C099207A-7427-46F2-98FA-9943DF98ED6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C099207A-7427-46F2-98FA-9943DF98ED6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C099207A-7427-46F2-98FA-9943DF98ED6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236D6B88-16FD-44CB-9730-358A573303A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236D6B88-16FD-44CB-9730-358A573303A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236D6B88-16FD-44CB-9730-358A573303A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236D6B88-16FD-44CB-9730-358A573303A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
