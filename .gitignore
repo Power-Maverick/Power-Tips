@@ -2,12 +2,10 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Ep-04/PowerTips.Plugins/.vs/PowerTips.Plugins
-/Ep-04/PowerTips.Plugins/packages
 /.vs
-/Ep-04-05/PowerTips.Plugins/.vs/PowerTips.Plugins
-/Ep-04-05/PowerTips.Plugins/packages
-/Ep-04-05/PowerTips.Plugins/PowerTips.Plugins.Training/bin/Debug
-/Ep-04-05/PowerTips.Plugins/PowerTips.Plugins.Training/obj/Debug
-/Ep-04-05/PowerTips.Plugins/PowerTips.Plugins.UnitTests/obj/Debug
-/Ep-04-05/PowerTips.Plugins/PowerTips.Plugins.UnitTests/bin/Debug
+/PluginProject/PowerTips.Plugins/.vs/PowerTips.Plugins
+/PluginProject/PowerTips.Plugins/packages
+/PluginProject/PowerTips.Plugins/PowerTips.Plugins.Training/bin/Debug
+/PluginProject/PowerTips.Plugins/PowerTips.Plugins.Training/obj/Debug
+/PluginProject/PowerTips.Plugins/PowerTips.Plugins.UnitTests/bin/Debug
+/PluginProject/PowerTips.Plugins/PowerTips.Plugins.UnitTests/obj/Debug
