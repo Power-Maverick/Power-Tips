@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "PowerTips.Demo.DVManagedIdentity": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7290",
+      "launchBrowser": false
+    }
+  }
+}
